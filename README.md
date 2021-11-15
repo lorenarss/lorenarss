@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, Data Science, Python, tester, Games and more
 - 🌱 I’m currently learning Java/tester
 - 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/lorena-da-silva-a063651b8/
+- 📫 How to reach me on linkedin https://www.linkedin.com/in/lorenarss/
 
 <!---
 lorenarss/lorenarss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
