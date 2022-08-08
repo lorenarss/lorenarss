@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorena Silva
-- 👀 I’m interested in java, tester, Games and more
-- 🌱 I’m currently learning Java/tester
+- 👀 I’m interested in java, Games and more
+- 🌱 I’m currently learning Java/Angular/React/Spring
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/lorenarss/
 
