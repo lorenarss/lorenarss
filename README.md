@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorena Silva
-- 👀 I’m interested in java, Games and more
-- 🌱 I’m currently learning Java/Angular/React/Spring
+- 👀 I’m interested in Data analysis, Games and more
+- 🌱 I’m currently learning PowerBi, Azure, AWS and Python.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/lorenarss/
 
