@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorena Silva
-- 👀 I’m interested in Data analysis, Games and more
+- 👀 I’m interested in Data analysis, Machine learning, Games and more
 - 🌱 I’m currently learning PowerBi, Azure, AWS and Python.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/lorenarss/
